@@ -45,6 +45,5 @@ int main()
         printf("\n");
     }
 
-    return 0;<img width="379" height="243" alt="Screenshot 2026-08-21 134931" src="https://github.com/user-attachments/assets/42abca97-887b-4f14-83d4-3d366a102e94" />
-
+    return 0;
 }
