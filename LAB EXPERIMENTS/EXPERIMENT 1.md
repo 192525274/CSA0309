@@ -1,4 +1,3 @@
-<img width="379" height="243" alt="Screenshot 2026-08-21 134931" src="https://github.com/user-attachments/assets/6a98e415-014e-46d7-874f-92eb36aff20c" />
 #include<stdio.h>
 
 int main()
@@ -48,3 +47,6 @@ int main()
 
     return 0;
 }
+#output
+<img width="379" height="243" alt="Screenshot 2026-08-21 134931" src="https://github.com/user-attachments/assets/4a9ab16a-de6e-463b-b83f-ac7a65c0debe" />
+
