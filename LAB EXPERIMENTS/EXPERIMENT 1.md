@@ -1,5 +1,5 @@
 ## PROGRAM
-```PYTHON
+```C PROGRAM
 #include<stdio.h>
 
 int main()
