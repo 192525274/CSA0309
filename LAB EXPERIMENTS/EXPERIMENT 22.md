@@ -48,4 +48,6 @@ int main() {
 }
 ```
 # OUTPUT
+<img width="521" height="299" alt="image" src="https://github.com/user-attachments/assets/b0629bf7-3ae1-41b0-ba4c-acba00f28732" />
+
 
