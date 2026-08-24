@@ -55,5 +55,5 @@ int main() {
 }
 ```
 # OUTPUT
-<img width="344" height="83" alt="image" src="https://github.com/user-attachments/assets/2d5c4e50-f89e-4d6a-934c-2156b59becb2" />
+<img width="374" height="194" alt="image" src="https://github.com/user-attachments/assets/c9e68ccb-925b-4643-b15b-ec900e4fd4d2" />
 
