@@ -1,3 +1,5 @@
+## PROGRAM
+``` C
 #include <stdio.h>
 
 int main() {
@@ -14,8 +16,10 @@ int main() {
         b = c;
     }
 
+
     return 0;
 }
+```
 # OUTPUT
 <img width="354" height="158" alt="image" src="https://github.com/user-attachments/assets/c8f34eea-4514-48a1-b623-a2d562d79386" />
 
